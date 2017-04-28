@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#define object void*
 #define string char*
 
 typedef enum facebookResponseTypes {
