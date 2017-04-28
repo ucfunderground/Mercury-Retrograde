@@ -7,6 +7,7 @@
 
 #define object void*
 #define string char*
+#define uint unsigned int
 
 typedef enum facebookResponseTypes {
   IGNORE,
